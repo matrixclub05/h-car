@@ -40,9 +40,7 @@
     "source-map-support": "0.4.6",
     "sqlite3": "3.1.8",
     "universal-router": "2.0.0",
-    "whatwg-fetch": "2.0.1"
-  },
-  "devDependencies": {
+    "whatwg-fetch": "2.0.1",
     "assets-webpack-plugin": "^3.5.0",
     "autoprefixer": "^6.5.3",
     "babel-cli": "^6.18.0",
@@ -108,6 +106,9 @@
     "webpack": "^1.13.3",
     "webpack-hot-middleware": "^2.13.2",
     "webpack-middleware": "^1.5.1"
+  },
+  "devDependencies": {
+
   },
   "babel": {
     "presets": [
